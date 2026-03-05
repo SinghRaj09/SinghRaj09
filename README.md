@@ -90,12 +90,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SinghRaj09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SinghRaj09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SinghRaj09&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-252-brightgreen?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Longest%20Streak-4%20days-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Repos-Public-orange?style=for-the-badge&logo=github"/>
 </p>
 
 ---
