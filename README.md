@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:singh1406raj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/raj-the-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=SinghRaj09&style=for-the-badge&color=0e75b6" alt="profile views"/>
 </p>
 
