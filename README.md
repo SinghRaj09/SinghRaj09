@@ -90,13 +90,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://gh-stats-gen.vercel.app/api?username=SinghRaj09&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinghRaj09&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SinghRaj09&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SinghRaj09&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SinghRaj09&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SinghRaj09&theme=tokyonight"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinghRaj09&theme=tokyonight"/>
 </p>
 
 ---
