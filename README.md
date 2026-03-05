@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Raj Singh 👋</h1>
-<h3 align="center">Data Analyst | SQL • Python • Power BI • ETL Pipelines</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%2B+Python+%2B+Power+BI;Software+Developer+%7C+C%2B%2B+%2B+REST+APIs+%2B+CI%2FCD;ETL+Pipelines+%7C+KPI+Dashboards+%7C+Data+Insights;Turning+Raw+Data+into+Business+Stories+📊" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="mailto:singh1406raj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -13,11 +16,11 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.E. in **Computer Science & Engineering (Big Data Analytics)** — Chandigarh University (2022–2026)
-- 💼 Passionate about turning **raw data into actionable business insights**
-- 🔭 Currently building: **ETL pipelines, KPI dashboards & REST APIs**
-- 🌱 Learning: **Advanced SQL, Data Warehousing, Machine Learning**
-- 🤝 Open to: **Data Analyst / Business Analyst internships & collaborations**
-- ⚡ Fun fact: I love turning messy data into clean stories 📊
+- 📊 Passionate about **Data Analytics** — building ETL pipelines, KPI dashboards & actionable business insights
+- 💻 Also a **Software Developer** — built & deployed full-stack apps with C++, REST APIs, JWT auth in production
+- 🔭 Currently working on: **Advanced SQL, Data Warehousing & DSA in C++**
+- 🤝 Open to: **Data Analyst / Business Analyst / SDE internships & collaborations**
+- ⚡ Fun fact: I love turning messy raw data into clean business stories 📊
 
 ---
 
@@ -45,6 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
@@ -60,8 +64,17 @@
 
 ---
 
+### 🛒 [CampusForge – Project Collaboration Platform](https://github.com/SinghRaj09/Retail-Analytics-API.git)
+> **C++ • Crow • Supabase • JWT • REST API • Railway • React • Vite**
+
+- Built a **full-stack collaboration platform in C++ (Crow)** with JWT auth & REST APIs — validated by **50+ real users** in production
+- Implemented **SHA-256 password hashing**, email verification, and 24-hour JWT token expiry with async email delivery
+- Deployed on **Railway** with custom domain, handling CORS and a **5-layer request pipeline** for secure cross-origin communication
+
+---
+
 ### 🏪 [StellarMart Retail Analysis](https://github.com/SinghRaj09/StellarMart-Retail-Analysis.git)
-> **Python • SQL • Excel • Power BI**
+> **SQL • Excel • Power BI**
 
 - Analyzed **5,000+ transactions worth $13.3M** to identify top revenue-driving product categories
 - Built interactive **Power BI KPI dashboard** with $3K average order value insights
@@ -78,15 +91,6 @@
 
 ---
 
-### 🧠 [Student Mental Health Analysis](https://github.com/SinghRaj09/Cloud-Based-Mental-Health-Survey-Dashboard.git)
-> **Python • Excel • Power BI**
-
-- Analyzed **100+ student records** across 4 academic years
-- Discovered sleep deprivation trend: avg sleep dropped from **6.6 hrs → 5.6 hrs** by final year
-- Presented findings via interactive dashboard for academic insights
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -96,6 +100,10 @@
 
 <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinghRaj09&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SinghRaj09&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
