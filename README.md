@@ -65,7 +65,7 @@
 ---
 
 ### 🛒 [CampusForge – Project Collaboration Platform]
-#### [Frontend](https://github.com/SinghRaj09/CampusForge-Frontend.git) [Backend](https://github.com/SinghRaj09/CampusForge-Backend.git) (https://www.campusforge.me)
+#### • [Frontend](https://github.com/SinghRaj09/CampusForge-Frontend.git) • [Backend](https://github.com/SinghRaj09/CampusForge-Backend.git) • (https://www.campusforge.me)
 
 > **C++ • Crow • Supabase • JWT • REST API • Railway • React • Vite**
 
