@@ -64,7 +64,9 @@
 
 ---
 
-### 🛒 [CampusForge – Project Collaboration Platform](https://github.com/SinghRaj09/Retail-Analytics-API.git)
+### 🛒 [CampusForge – Project Collaboration Platform]
+#### [Frontend](https://github.com/SinghRaj09/CampusForge-Frontend.git)
+
 > **C++ • Crow • Supabase • JWT • REST API • Railway • React • Vite**
 
 - Built a **full-stack collaboration platform in C++ (Crow)** with JWT auth & REST APIs — validated by **50+ real users** in production
