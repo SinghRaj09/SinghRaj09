@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raj Singh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%2B+Python+%2B+Power+BI;Software+Developer+%7C+C%2B%2B+%2B+REST+APIs+%2B+CI%2FCD;ETL+Pipelines+%7C+KPI+Dashboards+%7C+Data+Insights;Turning+Raw+Data+into+Business+Stories+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%2B+Python+%2B+Power+BI;Software+Developer+%7C+C%2B%2B+%2B+REST+APIs+%2B+CI%2FCD;ETL+Pipelines+%7C+KPI+Dashboards+%7C+Data+Insights;Turning+Raw+Data+into+Business+Stories" alt="Typing SVG" />
 </p>
 
 <p align="center">
