@@ -90,9 +90,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-252-brightgreen?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Longest%20Streak-4%20days-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Repos-Public-orange?style=for-the-badge&logo=github"/>
+  <img width="49%" src="https://gh-stats-gen.vercel.app/api?username=SinghRaj09&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinghRaj09&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SinghRaj09&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SinghRaj09&theme=tokyonight"/>
 </p>
 
 ---
