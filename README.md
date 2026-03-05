@@ -113,7 +113,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/SinghRaj09/SinghRaj09/blob/output/github-contribution-grid-snake.svg)
+![Raj's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SinghRaj09&theme=tokyo-night&hide_border=true)
 
 ---
 
